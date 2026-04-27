@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ammissess/ammissess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-#  Gurinowāru / Minh ND
+# Hi there 👋  I am Gurinowāru from Black Bulls 🍀🍀🍀
 
 <img src="./assets/banner-black-clover.png" alt="Black Clover Inspired Banner" width="100%" />
 
 <br/>
 
-### Android Kotlin Native Developer | Vibe Coding | GenZ
+### Android Kotlin Native Developer 🧑🏻‍💻 | Vibe Coding 🤖 | GenZ ⚡
 
 <p>
 Focused on clean architecture, backend-first implementation, and real-world product delivery.
