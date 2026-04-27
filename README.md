@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Android Kotlin Native Developer 🧑🏻‍💻 | Vibe Coding 🤖 | GenZ ⚡
 
 <p>
-Focused on clean architecture, and real-world product delivery.
+Focused on clean architecture and real-world product delivery.
 </p>
 
 </div>
